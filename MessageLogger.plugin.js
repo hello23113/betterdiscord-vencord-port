@@ -3,6 +3,9 @@
  * @version 1.1.2
  * @description Logs deleted and edited messages, kept across reloads. BetterDiscord port of the Vencord MessageLogger.
  * @author rushii, Ven, AutumnVN, Nickyux, Kyuuhachi, sadan, f3tch (Vencord), BetterDiscord port
+ * @source https://github.com/hello23113/betterdiscord-vencord-port
+ * @website https://github.com/hello23113/betterdiscord-vencord-port
+ * @updateUrl https://raw.githubusercontent.com/hello23113/betterdiscord-vencord-port/main/MessageLogger.plugin.js
  */
 
 const NAME = "MessageLogger";
